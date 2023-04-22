@@ -1,4 +1,4 @@
-0x11. C - printf team proect
+0x11. C - printf team project
 
 0. Write a function that produces output according to a format.
 Prototype: int _printf(const char *format, ...);
